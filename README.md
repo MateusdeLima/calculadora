@@ -4,6 +4,8 @@ Mais um projeto com auxilio e proporcionado pela udemy onde colocamos nosso conh
 layout dessa calculadora é compósta por HTML, CSS e Booststrap 4 framework de CSS e em sua lógica usamos o JavaScript para a interação com os botões, dinâmica com 
 a tela de resultado, e claro os calculos que são executados por ele.
 
+Teste por favor: https://mateusdelima.github.io/calculadora/
+
 Exemplo Layout:
 
 ![calculadora github](https://user-images.githubusercontent.com/89278014/233795710-e06b4ade-81f7-47ee-8797-220433905f40.png)
